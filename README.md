@@ -1,2 +1,2 @@
 # SemanaTec
-Cambios en readme- main
+Cambios en readme- swv
